@@ -5,6 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 import seaborn as sns
+# Making this comment to make a point
 
 def clean_data(df):
     '''
